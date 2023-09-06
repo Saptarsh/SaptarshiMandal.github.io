@@ -20,7 +20,7 @@ Education
     * Advisor: [Mark A. Anastasio](https://anastasio.bioengineering.illinois.edu/){:target="_blank"}
     
 ### [University of Waterloo](https://uwaterloo.ca), Waterloo, Canada (Fall 2018 - Spring 2020)
-* M.Math in Vision Science and Systems Design Engineering
+* M.S. in Vision Science and Systems Design Engineering
     * Advisor: [Vasudevan Lakshminarayanan](https://uwaterloo.ca/optometry-vision-science/profile/vengu) & [John Zelek](https://uwaterloo.ca/systems-design-engineering/profile/jzelek){:target="_blank"}
     
     
