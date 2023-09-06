@@ -41,18 +41,20 @@ News and Updates
 
 - <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2303.06876) on "Revisiting model self-interpretability in a decision-theoretic way for binary medical image classification" accepted to <span style="color:#ff0000">**ICML 2023 Workshop Interpretable Machine Learning in Healthcare**</span>!
 
-- Received the prestigious Bahl Graduate Student Award from Department of ECE, UIUC !</span>!
+- Received the prestigious Bahl Graduate Student Award from Department of ECE, UIUC !
 
 ### 2022
 - <span style="color:#fa4d4d"></span> [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12471/124710E/Semi-supervised-contrastive-learning-for-white-blood-cell-segmentation-from/10.1117/12.2654584.short?SSO=1) on "Semi-supervised contrastive learning for white blood cell segmentation from label-free quantitative phase imaging" accepted to <span style="color:#ff0000">**SPIE Medical Imaging 2023**(Oral Presentation)</span>!
 
 - <span style="color:#fa4d4d"></span> [Paper](https://www.nature.com/articles/s41598-022-21250-z) on "White blood cell detection, classification and analysis using phase imaging with computational specificity (PICS)" accepted to <span style="color:#ff0000">**Scientific Reports**</span>!
-- Passed my PhD Qualification Exam!</span>!
+- Passed my PhD Qualification Exam!
 
 ### 2021
-- Received prestigious [NIH T32](https://time.illinois.edu/2021-cohort/) Pre-doctoral trainee award !</span>!
+- Received prestigious [NIH T32](https://time.illinois.edu/2021-cohort/) Pre-doctoral trainee award !
+  
 - <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2209.09825) on "De-speckling of Optical Coherence Tomography Images Using Anscombe Transform and a Noisier2noise Model" accepted to <span style="color:#ff0000">**MICCAI 2022 Workshop OMIA**</span>!
 - <span style="color:#fa4d4d">]</span> [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/0000/Analyzing-neural-networks-applied-to-an-anatomical-simulation-of-the/10.1117/12.2612614.short) on "Analyzing neural networks applied to an anatomical simulation of the breast" accepted to <span style="color:#ff0000">**SPIE Medical Imaging 2022**(Oral Presentation)</span>!
+  
 - <span style="color:#fa4d4d">]</span> [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/1203514/Investigation-of-adversarial-robust-training-for-establishing-interpretable-CNN-based/10.1117/12.2613220.short) on "Investigation of adversarial robust training for establishing interpretable CNN-based numerical observers" accepted to <span style="color:#ff0000">**SPIE Medical Imaging 2022**</span>!
 
 
