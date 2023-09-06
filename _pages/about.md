@@ -25,14 +25,6 @@ Here is my [curriculum vitae](files/CV_Sourya.pdf).
 
 I have broad interests in solving **Medical Imaging** problems using advanced computational methods. Specific topics that I am interested in include **image-to-image translation problems in medical imaging**, **interpretable deep learning**, and **label-free imaging**. I am also interested in **AI in healthcare**, in general.
 
------
-
-### Outreach
-
-
-I am a part of ["bigyan"](https://bigyan.org.in){:target="_blank"}, a science outreach group that aims to popularize science in the Bengali language. Please feel free to message me on any social media platform or send me an email if you are interested in contributing to "bigyan" or discussing science outreach more generally. 
-
-
 News and Updates
 ------
 
@@ -58,5 +50,8 @@ News and Updates
 - <span style="color:#fa4d4d">]</span> [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/1203514/Investigation-of-adversarial-robust-training-for-establishing-interpretable-CNN-based/10.1117/12.2613220.short) on "Investigation of adversarial robust training for establishing interpretable CNN-based numerical observers" accepted to <span style="color:#ff0000">**SPIE Medical Imaging 2022**</span>!
 
 
-### 2018
-- <span style="color:#fa4d4d">[Sep 2018]</span> Joined the University of Waterloo as a Master's student.
+-----
+
+### Outreach
+
+I am a part of ["bigyan"](https://bigyan.org.in){:target="_blank"}, a science outreach group that aims to popularize science in the Bengali language. Please feel free to message me on any social media platform or send me an email if you are interested in contributing to "bigyan" or discussing science outreach more generally. 
