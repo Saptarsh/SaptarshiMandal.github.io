@@ -45,8 +45,9 @@ News and Updates
 - Received prestigious [NIH T32](https://time.illinois.edu/2021-cohort/) Pre-doctoral trainee award !
   
 - <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2209.09825) on "De-speckling of Optical Coherence Tomography Images Using Anscombe Transform and a Noisier2noise Model" accepted to <span style="color:#ff0000">**MICCAI 2022 Workshop OMIA**</span>!
-- <span style="color:#fa4d4d">]</span> [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/0000/Analyzing-neural-networks-applied-to-an-anatomical-simulation-of-the/10.1117/12.2612614.short) on "Analyzing neural networks applied to an anatomical simulation of the breast" accepted to <span style="color:#ff0000">**SPIE Medical Imaging 2022**(Oral Presentation)</span>!
   
+- <span style="color:#fa4d4d">]</span> [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/0000/Analyzing-neural-networks-applied-to-an-anatomical-simulation-of-the/10.1117/12.2612614.short) on "Analyzing neural networks applied to an anatomical simulation of the breast" accepted to <span style="color:#ff0000">**SPIE Medical Imaging 2022**(Oral Presentation)</span>!
+
 - <span style="color:#fa4d4d">]</span> [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12035/1203514/Investigation-of-adversarial-robust-training-for-establishing-interpretable-CNN-based/10.1117/12.2613220.short) on "Investigation of adversarial robust training for establishing interpretable CNN-based numerical observers" accepted to <span style="color:#ff0000">**SPIE Medical Imaging 2022**</span>!
 
 
