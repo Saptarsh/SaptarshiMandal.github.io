@@ -10,7 +10,7 @@ redirect_from:
 
 ------
 
-I am a third year Ph.D. student in [Electrical and Computer Engineering](https://ece.illinois.edu/){:target="_blank"} at the [University of Illinois, Urbana-Champaign](https://illinois.edu/){:target="_blank"}, supervised by [Mark A. Anastasio]([http://www.billfefferman.com](https://anastasio.bioengineering.illinois.edu/)){:target="_blank"}.  I also closely work with [Center for Label-free Imaging] (https://climb.beckman.illinois.edu/)
+I am a third year Ph.D. student in [Electrical and Computer Engineering](https://ece.illinois.edu/){:target="_blank"} at the [University of Illinois, Urbana-Champaign](https://illinois.edu/){:target="_blank"}, supervised by [Mark A. Anastasio]((https://anastasio.bioengineering.illinois.edu/)){:target="_blank"}. I also closely work with [Center for Label-free Imaging(https://climb.beckman.illinois.edu/){:target="_blank"}
 
 Previously, from 2018 to 2020, I was a Master's student at the University of Waterloo, under the brilliant supervision of [Vasudevan Lakshminarayanan](https://uwaterloo.ca/optometry-vision-science/profile/vengu){:target="_blank"} and [John Zelek](http://www.eng.uwaterloo.ca/~jzelek/).  
 
