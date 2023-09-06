@@ -16,7 +16,7 @@ Previously, from 2018 to 2020, I was a Master's student at the University of Wat
 
 I was an undergraduate at [Jadavpur University](http://www.jaduniv.edu.in){:target="_blank"}, India in the Department of Electrical Engineering, from 2014 to 2018.
 
-Here is my [curriculum vitae](souryasengupta.github.io-master/files/CV_Sourya.pdf).
+Here is my [curriculum vitae](files/CV_Sourya.pdf).
 
 ------
 
