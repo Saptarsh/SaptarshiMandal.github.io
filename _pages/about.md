@@ -33,7 +33,7 @@ News and Updates
 
 - <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2303.06876) on "Revisiting model self-interpretability in a decision-theoretic way for binary medical image classification" accepted to <span style="color:#ff0000">**ICML 2023 Workshop Interpretable Machine Learning in Healthcare**</span>!
 
-- Received the prestigious Bahl Graduate Student Award from Department of ECE, UIUC !
+- Received the prestigious Bahl Graduate Student Award from the Department of ECE, UIUC!
 
 ### 2022
 - <span style="color:#fa4d4d"></span> [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12471/124710E/Semi-supervised-contrastive-learning-for-white-blood-cell-segmentation-from/10.1117/12.2654584.short?SSO=1) on "Semi-supervised contrastive learning for white blood cell segmentation from label-free quantitative phase imaging" accepted to <span style="color:#ff0000">**SPIE Medical Imaging 2023**(Oral Presentation)</span>!
