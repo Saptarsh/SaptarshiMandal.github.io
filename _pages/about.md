@@ -28,6 +28,9 @@ I have broad interests in solving **Medical Imaging** problems using advanced co
 News and Updates
 ------
 
+### 2024
+- <span style="color:#fa4d4d"></span> [Paper](https://ieeexplore.ieee.org/abstract/document/10378976) on "A Test Statistic Estimation-based Approach for Establishing Self-interpretable CNN-based Binary Classifiers" accepted to <span style="color:#ff0000">**IEEE Transactions on Medical Imaging**</span>!
+  
 ### 2023
 - <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2308.04578) on "[Semi-Supervised Semantic Segmentation of Cell Nuclei via Diffusion-based Large-Scale Pre-Training and Collaborative Learning]" out on <span style="color:#1434a4">arXiv</span>! 
 
