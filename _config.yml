@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sourya Sengupta / Home"
+title                    : "Saptarshi Mandal / Home"
 title_separator          : "-"
-name                     : &name "Sourya Sengupta"
+name                     : &name "Saptarshi Mandal"
 description              : &description "personal description"
-url                      : https://souryasengupta.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://SaptarshiMandal.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "souryasengupta/souryasengupta.github.io"
+repository               : "saptarsh/SaptarshiMandal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sourya Sengupta"
+  name             : "Saptarshi Mandal"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in Electrical and Computer Engineering | University of Illinois, Urbana-Champaign"
+  bio              : "Ph.D. candidate in Electrical and Computer Engineering | University of Illinois, Urbana-Champaign"
   location         : "Urbana,Illinois"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=DOJOW4EAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #googlescholar    : #"https://scholar.google.com/citations?user=DOJOW4EAAAAJ&hl=en"
+  email            :  "smandal4@llinois.edu"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "souryasengupta"
+  github           : #"saptarsh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/souryasengupta/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  #LinkedIn         : #"https://www.linkedin.com/in/souryasengupta/"
+  #orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/souryasengupta1"
+  #twitter          : #"https://twitter.com/souryasengupta1"
   vine             :
   weibo            :
   xing             :
