@@ -16,7 +16,7 @@ author_profile: true
     <div style="color: #1a73e8;"><strong>Single Use Restless Multi-arm Bandits: Models and Efficient Algorithms</strong></div>
     <div style="color: #555; text-align: right;">Fall 2023</div>
   </div>
-  <div style="color: #888;">Venue: Google Research, India, Bangalore</div>
+  <div style="color: #888;">Venue: Google Research, AI for Social Good</div>
   <div style="color: #888;">Supervisor: Prof. Milind Tambe, Harvard University</div>
   <p style="margin-top: 10px;">
     <strong>Description:</strong> Worked on a real-world dataset designed to model the intervention effects of health workers across India, developing efficient algorithms for sequential decision-making under scarce resources. Contributed to the modeling of a general Restless Bandit framework suitable for the intervention dataset at Google Research, India, and characterized the assumptions necessary for the asymptotic optimality of various computationally efficient policies.
@@ -35,6 +35,9 @@ author_profile: true
   <div style="color: #888;">Collaboration: Prof. Lin Xiaojun, Purdue University</div>
   <p style="margin-top: 10px;">
     <strong>Description:</strong> Provided theoretical insights into several well-known phenomena of Knowledge Distillation, including model compression (comparing traditional labels with soft labels for training in supervised classification tasks). Proved linear convergence rate in Projected Gradient Descent for 2-layer neural networks in a binary classification problem, offering insights into why soft labels achieve faster convergence than hard labels during training.
+  </p>
+  <p style="margin-top: 10px;">
+    Under preparation for ICLR 2025.
   </p>
 </div>
 
