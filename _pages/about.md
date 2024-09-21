@@ -10,9 +10,11 @@ redirect_from:
 
 ------
 
-I am a third-year Ph.D. student in [Electrical and Computer Engineering](https://ece.illinois.edu/){:target="_blank"} at the [University of Illinois, Urbana-Champaign](https://illinois.edu/){:target="_blank"}, supervised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/){:target="_blank"}.
+I am a Ph.D. student in [Electrical and Computer Engineering](https://ece.illinois.edu/){:target="_blank"} at the [University of Illinois, Urbana-Champaign](https://illinois.edu/){:target="_blank"}, supervised by [Prof. R. Srikant](https://sites.google.com/a/illinois.edu/srikant/){:target="_blank"}.
 
 I graduated with a dual degree (Bachelor's and Master's) from the [Indian Institute of Technology, Kharagpur](https://www.iitkgp.ac.in/){:target="_blank"}, India, majoring in [Electronics and Electrical Communication Engineering](http://www.ecdept.iitkgp.ac.in/){:target="_blank"} and minoring in [Computer Science](http://cse.iitkgp.ac.in/){:target="_blank"} in 2021.
+
+I spent the Fall of 2023 working at <span style="color:#ff0000">**Google Research**</span> on an “AI for Social Good” project, where I studied the use of data-driven approaches to efficiently allocate scarce resources and encourage patients to seek healthcare in rural India. I worked under the supervision of [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe){:target="_blank"} and collaborated closely with his team at [Harvard University](https://www.harvard.edu/){:target="_blank"}. The project involved designing sequential decision-making policies using the Restless Multi-armed Bandit framework.
 
 Here is my [curriculum vitae](files/CV_SAPTARSHI.pdf).
 
@@ -24,9 +26,13 @@ I have broad interests in the **theoretical understanding of machine learning**.
 Updates
 ------
 
+### 2024
+
+- Saptarshi Mandal, Xiaojun Lin and R. Srikant. **Insights into Soft-Label Training: Why Fewer Neurons, Faster Convergence?**, under preparation for <span style="color: #1a73e8;">ICLR 2025</span>.
+
 ### 2023
-- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2302.07393) on "[Spectral Clustering for Crowdsourcing with Inherently Distinct Task Types]" on <span style="color:#1434a4">arXiv</span>.
-- Interned at <span style="color:#ff0000">**Google Research India**</span> in Fall 2023.
+- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2302.07393) on "[Spectral Clustering for Crowdsourcing with Inherently Distinct Task Types]" on <span style="color:#1434a4">arXiv</span>. Its under review at <span style="color: #1a73e8;">ACM SIGMETRICS 2025</span>.
+- Interned at <span style="color:#ff0000">**Google Research, Ai for Social Good**</span> in Fall 2023.
 
 ### 2022
 - Passed my Ph.D. qualification exam.
