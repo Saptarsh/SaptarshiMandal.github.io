@@ -18,6 +18,7 @@ author_profile: true
   </div>
   <div style="color: #888;">Venue: Google Research, AI for Social Good</div>
   <div style="color: #888;">Supervisor: Prof. Milind Tambe, Harvard University</div>
+  <div style="color: #888;">Collaboration: Assistant Prof. Niclas Boehmer, HPI, Germany</div>
   <p style="margin-top: 10px;">
     <strong>Description:</strong> Worked on a real-world dataset designed to model the intervention effects of health workers across India, developing efficient algorithms for sequential decision-making under scarce resources. Contributed to the modeling of a general Restless Bandit framework suitable for the intervention dataset at Google Research, India, and characterized the assumptions necessary for the asymptotic optimality of various computationally efficient policies.
   </p>
@@ -50,7 +51,7 @@ author_profile: true
   </div>
   <div style="color: #888;">Venue: UIUC</div>
   <div style="color: #888;">Supervisor: Prof. R. Srikant, UIUC</div>
-  <div style="color: #888;">Collaboration: Seo Taek Kong, UIUC</div>
+  <div style="color: #888;">Collaboration: Seo Taek Kong, Dimitris Katselis UIUC</div>
   <p style="margin-top: 10px;">
     <strong>Description:</strong> Extended the Dawid-Skene (DS) model to multi-type cases and analyzed the error bounds of existing algorithms. Focusing on the case where there are two types of tasks, we propose a spectral method to partition tasks into two groups that cluster tasks by type. Our analysis reveals that task types can be perfectly recovered if the number of workers n scales logarithmically with the number of tasks d.
   </p>

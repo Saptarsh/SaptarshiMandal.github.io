@@ -31,14 +31,14 @@ Updates
 - Saptarshi Mandal, Xiaojun Lin and R. Srikant. **Insights into Soft-Label Training: Why Fewer Neurons, Faster Convergence?**, under preparation for <span style="color: #1a73e8;">ICLR 2025</span>.
 
 ### 2023
-- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2302.07393): Saptarshi Mandal, Seo Taek Kong, Dimitris Katselis, R. Srikant.  "**Spectral Clustering for Crowdsourcing with Inherently Distinct Task Types**" on <span style="color:#1434a4">arXiv</span>. Its under review at <span style="color: #1a73e8;">ACM SIGMETRICS 2025</span>.
+- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2302.07393): Saptarshi Mandal, Seo Taek Kong, Dimitris Katselis, R. Srikant.  **Spectral Clustering for Crowdsourcing with Inherently Distinct Task Types** on <span style="color:#1434a4">arXiv</span>. Its under review at <span style="color: #1a73e8;">ACM SIGMETRICS 2025</span>.
 - Interned at <span style="color:#ff0000">**Google Research, AI for Social Good**</span> in Fall 2023.
 
 ### 2022
 - Passed my Ph.D. qualification exam.
 
 ### 2021
-- Joined **UIUC** as a Ph.D. student in ECE.
+- Joined [University of Illinois, Urbana-Champaign](https://illinois.edu/){:target="_blank"} as a Ph.D. student in ECE.
 - Graduated from [Indian Institute of Technology, Kharagpur](https://www.iitkgp.ac.in/){:target="_blank"} with a B.Tech. and M.Tech. (major in ECE, minor in CS).
 
 ### 2020
