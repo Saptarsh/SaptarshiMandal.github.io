@@ -17,7 +17,7 @@ author_profile: true
     <div style="color: #555; text-align: right;">Fall 2023</div>
   </div>
   <div style="color: #888;">Venue: Google Research, India, Bangalore</div>
-  <div style="color: #888;">Supervisor: Prof. Milind Tambe, Harvard</div>
+  <div style="color: #888;">Supervisor: Prof. Milind Tambe, Harvard University</div>
   <p style="margin-top: 10px;">
     <strong>Description:</strong> Worked on a real-world dataset designed to model the intervention effects of health workers across India, developing efficient algorithms for sequential decision-making under scarce resources. Contributed to the modeling of a general Restless Bandit framework suitable for the intervention dataset at Google Research, India, and characterized the assumptions necessary for the asymptotic optimality of various computationally efficient policies.
   </p>
