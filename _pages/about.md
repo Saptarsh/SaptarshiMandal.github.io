@@ -27,11 +27,12 @@ Updates
 ------
 
 ### 2024
+- GUOJUN XIONG, Haichuan Wang, Yuqi Pan, *Saptarshi Mandal*, Sanket Shah, Niclas Boehmer, Milind Tambe. **Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**, under review at <span style="color: #1a73e8;">AAMAS 2025</span>
 
-- Saptarshi Mandal, Xiaojun Lin and R. Srikant. **Insights into Soft-Label Training: Why Fewer Neurons, Faster Convergence?**, under preparation for <span style="color: #1a73e8;">ICLR 2025</span>.
+- *Saptarshi Mandal*, Xiaojun Lin and R. Srikant. **A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**, under review at <span style="color: #1a73e8;">L4DC 2025</span>.
 
 ### 2023
-- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2302.07393): Saptarshi Mandal, Seo Taek Kong, Dimitris Katselis, R. Srikant.  **Spectral Clustering for Crowdsourcing with Inherently Distinct Task Types** on <span style="color:#1434a4">arXiv</span>. Its under review at <span style="color: #1a73e8;">ACM SIGMETRICS 2025</span>.
+- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2302.07393): *Saptarshi Mandal*, Seo Taek Kong, Dimitris Katselis, R. Srikant.  **Spectral Clustering for Crowdsourcing with Inherently Distinct Task Types** on <span style="color:#1434a4">arXiv</span>. Its under review at <span style="color: #1a73e8;">AISTATS 2025</span>.
 - Interned at <span style="color:#ff0000">**Google Research, AI for Social Good**</span> in Fall 2023.
 
 ### 2022
