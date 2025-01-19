@@ -23,16 +23,16 @@ author_profile: true
     <strong>Description:</strong> Worked on a real-world dataset designed to model the intervention effects of health workers across India, developing efficient algorithms for sequential decision-making under scarce resources. Contributed to the modeling of a general Restless Bandit framework suitable for the intervention dataset at Google Research, India, and characterized the assumptions necessary for the asymptotic optimality of various computationally efficient policies.
   </p>
   <p style="margin-top: 10px;">
-    <span style="color:#008000">It has been accepted for publication as a full paper</span> at <span style="color: #1a73e8;">AAMAS 2025</span> 
+    <span style="color:#008000">It has been accepted for publication as a full paper</span> at <span style="color: #1a73e8;">AAMAS 2025</span>. 
   </p>
-  <p><a href="https://arxiv.org/abs/2501.06103" target="_blank">arxiv paper link</a></p>
+  <p><a href="https://arxiv.org/abs/2501.06103" target="_blank">arxiv paper link</a>.</p>
 </div>
 
 
 <!-- Second Project -->
 <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; justify-content: space-between;">
-    <div style="color: #1a73e8;"><strong>Insights into Soft-Label Training: Why Fewer Neurons, Faster Convergence?</strong></div>
+    <div style="color: #1a73e8;"><strong>A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks</strong></div>
     <div style="color: #555; text-align: right;">2023 - 2024</div>
   </div>
   <div style="color: #888;">Venue: UIUC</div>
@@ -41,7 +41,7 @@ author_profile: true
   <p style="margin-top: 10px;">
     <strong>Description:</strong> Theoretical insights for a few widely known phenomena of Knowledge Distillation including Model Compression (using traditional labels vs. soft labels for training in Supervised Classification task) using the tools of Neural Tangent Kernel. 
   </p>
-  <p><a href="https://arxiv.org/abs/2412.09579" target="_blank">arxiv paper link</a></p>
+  <p><a href="https://arxiv.org/abs/2412.09579" target="_blank">arxiv paper link</a>.</p>
   <p style="margin-top: 10px;">
     Under review at L4DC 2025.
   </p>
@@ -60,7 +60,7 @@ author_profile: true
   <p style="margin-top: 10px;">
     <strong>Description:</strong> Extended the Dawid-Skene (DS) model to multi-type cases and analyzed the error bounds of existing algorithms. Focusing on the case where there are two types of tasks, we propose a spectral method to partition tasks into two groups that cluster tasks by type. Our analysis reveals that task types can be perfectly recovered if the number of workers n scales logarithmically with the number of tasks d.
   </p>
-  <p><a href="https://arxiv.org/abs/2302.07393" target="_blank">arxiv paper link</a></p>
+  <p><a href="https://arxiv.org/abs/2302.07393" target="_blank">arxiv paper link</a>.</p>
   <p style="margin-top: 10px;">
     Under review at AISTATS 2025.
   </p>
@@ -79,7 +79,7 @@ author_profile: true
     <strong>Description:</strong> Proposed a polynomial-time, delay-reliable scheduling strategy for multi-resource allocation in wired media, optimal in the presence of adversarial packet arrival. Developed an approximate solution for handling multiple packet types under the same framework.
   </p>
   <p style="margin-top: 10px;">
-    Under preparation for ACM MOBICOM 2026.
+    Under preparation for MOBICOM 2026.
   </p>
 </div>
 
