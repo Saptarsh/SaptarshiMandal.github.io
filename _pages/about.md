@@ -21,7 +21,7 @@ Here is my [curriculum vitae](files/CV_SAPTARSHI.pdf).
 ------
 
 ### Research Interests
-I have broad interests in the **theoretical understanding of machine learning**. Currently, I am exploring **knowledge distillation** from a theoretical perspective, particularly using the techniques of the **neural tangent kernel**. I am also interested in sequential decision-making problems, including **restless bandits**, **slicing in modern communication networks**, **scheduling in sensor networks**, etc.
+I have broad interests in the **theoretical understanding of machine learning**. Currently, I am exploring **distributionally robust reinforcement learning in the average cost framework**. Previously I worked on **knowledge distillation** from a theoretical perspective, particularly using the techniques of the **neural tangent kernel**. I also investigated **Type dependent estimate for Crowdsourcing**. Additionally, I am interested in sequential decision-making problems, including **restless bandits**, **slicing in modern communication networks**, **scheduling in sensor networks**, etc.
 
 Updates
 ------
