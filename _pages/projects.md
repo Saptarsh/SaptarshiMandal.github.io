@@ -43,7 +43,7 @@ author_profile: true
   </p>
   <p><a href="https://arxiv.org/abs/2412.09579" target="_blank">arxiv paper link</a>.</p>
   <p style="margin-top: 10px;">
-    Under review at L4DC 2025.
+    <span style="color:#008000">It has been accepted for publication</span> at <span style="color: #1a73e8;">L4DC 2025</span>.
   </p>
 </div>
 
@@ -62,7 +62,7 @@ author_profile: true
   </p>
   <p><a href="https://arxiv.org/abs/2302.07393" target="_blank">arxiv paper link</a>.</p>
   <p style="margin-top: 10px;">
-    Under review at AISTATS 2025.
+    Under review at TMLR.
   </p>
 </div>
 
@@ -79,7 +79,7 @@ author_profile: true
     <strong>Description:</strong> Proposed a polynomial-time, delay-reliable scheduling strategy for multi-resource allocation in wired media, optimal in the presence of adversarial packet arrival. Developed an approximate solution for handling multiple packet types under the same framework.
   </p>
   <p style="margin-top: 10px;">
-    Under preparation for MOBICOM 2026.
+    Under preparation for GLOBECOM 2025.
   </p>
 </div>
 
