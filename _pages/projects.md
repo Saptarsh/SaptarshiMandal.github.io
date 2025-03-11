@@ -46,7 +46,7 @@ author_profile: true
     <span style="color:#008000">It has been accepted for publication</span> at <span style="color: #1a73e8;">L4DC 2025</span>.
   </p>
   <p style="margin-top: 10px;">
-   Presented the work at <span style="color: #1a73e8;">[CSL Student Conference 2025](https://studentconference.csl.illinois.edu/)</span>
+   Presented the work at <a href="https://studentconference.csl.illinois.edu/" target="_blank">CSL Student Conference 2025</a>.
   </p>
 </div>
 
@@ -65,7 +65,7 @@ author_profile: true
   </p>
   <p><a href="https://arxiv.org/abs/2302.07393" target="_blank">arxiv paper link</a>.</p>
   <p style="margin-top: 10px;">
-  Accepted for a talk at <span style="color: #1a73e8;">[INFORMS Applied Probability Society Conference 2025](https://informs-aps.isye.gatech.edu/)</span> to be held in July.
+  Accepted for a talk at <a href="https://informs-aps.isye.gatech.edu/" target="_blank">INFORMS Applied Probability Society Conference 2025</a> to be held in July.
   </p>
   <p style="margin-top: 10px;">
     Under review at TMLR.
