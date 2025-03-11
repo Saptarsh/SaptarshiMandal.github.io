@@ -45,6 +45,9 @@ author_profile: true
   <p style="margin-top: 10px;">
     <span style="color:#008000">It has been accepted for publication</span> at <span style="color: #1a73e8;">L4DC 2025</span>.
   </p>
+  <p style="margin-top: 10px;">
+   Presented the work at <span style="color: #1a73e8;">[CSL Student Conference 2025](https://studentconference.csl.illinois.edu/)</span>
+  </p>
 </div>
 
 
@@ -61,6 +64,9 @@ author_profile: true
     <strong>Description:</strong> Extended the Dawid-Skene (DS) model to multi-type cases and analyzed the error bounds of existing algorithms. Focusing on the case where there are two types of tasks, we propose a spectral method to partition tasks into two groups that cluster tasks by type. Our analysis reveals that task types can be perfectly recovered if the number of workers n scales logarithmically with the number of tasks d.
   </p>
   <p><a href="https://arxiv.org/abs/2302.07393" target="_blank">arxiv paper link</a>.</p>
+  <p style="margin-top: 10px;">
+  Accepted for a talk at <span style="color: #1a73e8;">[INFORMS Applied Probability Society Conference 2025](https://informs-aps.isye.gatech.edu/)</span> to be held in July.
+  </p>
   <p style="margin-top: 10px;">
     Under review at TMLR.
   </p>
