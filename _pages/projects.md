@@ -23,7 +23,7 @@ author_profile: true
     <strong>Description:</strong> Worked on a real-world dataset designed to model the intervention effects of health workers across India, developing efficient algorithms for sequential decision-making under scarce resources. Contributed to the modeling of a general Restless Bandit framework suitable for the intervention dataset at Google Research, India, and characterized the assumptions necessary for the asymptotic optimality of various computationally efficient policies.
   </p>
   <p style="margin-top: 10px;">
-    <span style="color:#008000">It has been accepted for publication as a full paper</span> at <span style="color: #1a73e8;">AAMAS 2025</span>. 
+    <span style="color:#008000">It has been accepted for publication as a full paper</span> at <span style="color: #1a73e8;">V (AAMAS) 2025</span>. 
   </p>
   <p><a href="https://arxiv.org/abs/2501.06103" target="_blank">arxiv paper link</a>.</p>
 </div>
@@ -43,7 +43,7 @@ author_profile: true
   </p>
   <p><a href="https://arxiv.org/abs/2412.09579" target="_blank">arxiv paper link</a>.</p>
   <p style="margin-top: 10px;">
-    <span style="color:#008000">It has been accepted for publication</span> at <span style="color: #1a73e8;">L4DC 2025</span>.
+    <span style="color:#008000">It has been accepted for publication</span> at <span style="color: #1a73e8;">Learning for Decision and Control (L4DC) 2025</span>.
   </p>
   <p style="margin-top: 10px;">
    Presented the work at <a href="https://studentconference.csl.illinois.edu/" target="_blank">CSL Student Conference 2025</a>.
@@ -65,7 +65,7 @@ author_profile: true
   </p>
   <p><a href="https://arxiv.org/abs/2302.07393" target="_blank">arxiv paper link</a>.</p>
   <p style="margin-top: 10px;">
-  Accepted for a talk at <a href="https://informs-aps.isye.gatech.edu/" target="_blank">INFORMS Applied Probability Society Conference 2025</a> to be held in July.
+  <span style="color:#008000">Accepted for a talk </span> at <a href="https://informs-aps.isye.gatech.edu/" target="_blank">INFORMS Applied Probability Society Conference 2025</a> to be held in July.
   </p>
   <p style="margin-top: 10px;">
     Under review at TMLR.

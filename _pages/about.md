@@ -29,13 +29,13 @@ Updates
 ### 2025
 - The [Crowdsourcing](https://arxiv.org/abs/2302.07393) work is accepted for a talk at <span style="color: #1a73e8;">[INFORMS Applied Probability Society Conference](https://informs-aps.isye.gatech.edu/)</span> to be held in July.
 - Presented the [Knowledge Distillation](https://arxiv.org/abs/2412.09579) work at <span style="color: #1a73e8;">[CSL Student Conference](https://studentconference.csl.illinois.edu/).</span>
-- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2501.06103): GUOJUN XIONG, Haichuan Wang, Yuqi Pan, <span style="color:#008000">*Saptarshi Mandal*</span>, Sanket Shah, Niclas Boehmer, Milind Tambe. **Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**, <span style="color:#008000">has been accepted for publication as a full paper</span> at <span style="color: #1a73e8;">AAMAS 2025</span>. 
+- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2501.06103): GUOJUN XIONG, Haichuan Wang, Yuqi Pan, <span style="color:#008000">*Saptarshi Mandal*</span>, Sanket Shah, Niclas Boehmer, Milind Tambe. **Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**, <span style="color:#008000">has been accepted for publication as a full paper</span> at <span style="color: #1a73e8;">International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2025</span>. 
 
 ### 2024
-- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2412.09579): <span style="color:#008000">*Saptarshi Mandal*</span>, Xiaojun Lin and R. Srikant. **A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**, <span style="color:#008000">has been accepted for publication</span> at <span style="color: #1a73e8;">L4DC 2025</span>.
+- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2412.09579): <span style="color:#008000">*Saptarshi Mandal*</span>, Xiaojun Lin and R. Srikant. **A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**, <span style="color:#008000">has been accepted for publication</span> at <span style="color: #1a73e8;">Learning for Decision and Control (L4DC) 2025</span>.
 
 ### 2023
-- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2302.07393): <span style="color:#008000">*Saptarshi Mandal*</span>, Seo Taek Kong, Dimitris Katselis, R. Srikant.  **Spectral Clustering for Crowdsourcing with Inherently Distinct Task Types** on <span style="color:#1434a4">arXiv</span>. Its currently under review at <span style="color: #1a73e8;">TMLR</span>.
+- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2302.07393): <span style="color:#008000">*Saptarshi Mandal*</span>, Seo Taek Kong, Dimitris Katselis, R. Srikant.  **Spectral Clustering for Crowdsourcing with Inherently Distinct Task Types** on <span style="color:#1434a4">arXiv</span>. Its currently under review at <span style="color: #1a73e8;">Transaction on Machine Learning Research (TMLR)</span>.
 - Interned at <span style="color:#ff0000">**Google Research, AI for Social Good**</span> in Fall 2023.
 
 ### 2022
