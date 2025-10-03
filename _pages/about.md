@@ -28,11 +28,11 @@ Updates
 
 ### 2025
 
-- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2510.01721): <span style="color:#008000">*Saptarshi Mandal*</span>, Yashaswini Murthy, R. Srikant.  **Finite-Time Bounds for Distributionally Robust TD Learning with Linear Function Approximation** on <span style="color:#1434a4">arXiv</span>. Its currently under review at <span style="color: #1a73e8;">International Conference on Learning Representations (ICLR)</span>...
+- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2510.01721): <span style="color:#008000">*Saptarshi Mandal*</span>, Yashaswini Murthy, R. Srikant.  **Finite-Time Bounds for Distributionally Robust TD Learning with Linear Function Approximation** on <span style="color:#1434a4">arXiv</span>. Its currently under review at <span style="color: #1a73e8;">International Conference on Learning Representations (ICLR)</span>.
 
 - The [Crowdsourcing](https://arxiv.org/abs/2302.07393) work <span style="color:#008000">has been accepted for publication</span> at <span style="color: #1a73e8;">[Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html)</span>.
 
-- The [Crowdsourcing](https://arxiv.org/abs/2302.07393) work is accepted for a talk at <span style="color: #1a73e8;">[INFORMS Applied Probability Society Conference](https://informs-aps.isye.gatech.edu/)</span> to be held in July.
+- The [Crowdsourcing](https://arxiv.org/abs/2302.07393) work is accepted for a talk at <span style="color: #1a73e8;">[INFORMS Applied Probability Society Conference](https://informs-aps.isye.gatech.edu/)</span>.
 
 - Presented the [Knowledge Distillation](https://arxiv.org/abs/2412.09579) work at <span style="color: #1a73e8;">[Learning for Dynamics and Control (L4DC) 2025](https://sites.google.com/umich.edu/l4dc2025/).</span>
 
