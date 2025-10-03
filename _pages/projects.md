@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects / Work Experience"
+title: "Research/Interships"
 permalink: /projects/
 author_profile: true
 ---
@@ -8,13 +8,35 @@ author_profile: true
 {% include base_path %}
 
 
-<h2>Projects</h2>
+<h2>Research</h2>
+
+
+<!-- First Project -->
+<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: space-between;">
+    <div style="color: #1a73e8;"><strong>Finite-Time Bounds for Distributionally Robust TD Learning and Q Learning with Linear Function Approximation</strong></div>
+    <div style="color: #555; text-align: right;">2025</div>
+  </div>
+  <div style="color: #888;">Venue: UIUC</div>
+  <div style="color: #888;">Supervisor: Prof. R. Srikant, UIUC</div>
+  <div style="color: #888;">Collaboration: Yashaswini Murthy, Caltech</div>
+  <p style="margin-top: 10px;">
+    <strong>Description:</strong> Existing convergence guarantees for robust RL are limited to tabular MDPs or are dependent on restrictive discount-factor assumptions when function approximation is used. We present the first robust TD learning and Q learning with linear function approximation, where robustness is measured with respect to the total-variation distance and Wasserstein-l distance uncertainty set. Our results close a key gap between the empirical success of robust RL algorithms and the non-asymptotic guarantees enjoyed by their non-robust counterparts.
+  </p>
+  <p><a href="https://arxiv.org/abs/2510.01721" target="_blank">arxiv paper link</a>.</p>
+  <p style="margin-top: 10px;">
+    Under review at ICLR.
+  </p>
+</div>
+
+
+
 
 <!-- First Project -->
 <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; justify-content: space-between;">
     <div style="color: #1a73e8;"><strong>Single Use Restless Multi-arm Bandits: Models and Efficient Algorithms</strong></div>
-    <div style="color: #555; text-align: right;">Fall 2023</div>
+    <div style="color: #555; text-align: right;">2023-2024</div>
   </div>
   <div style="color: #888;">Venue: Google Research, AI for Social Good</div>
   <div style="color: #888;">Supervisor: Prof. Milind Tambe, Harvard University</div>
@@ -28,12 +50,33 @@ author_profile: true
   <p><a href="https://arxiv.org/abs/2501.06103" target="_blank">arxiv paper link</a>.</p>
 </div>
 
+<!-- Third Project -->
+<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: space-between;">
+    <div style="color: #1a73e8;"><strong>Inferring Labels from Multi-type Crowdsourced Data</strong></div>
+    <div style="color: #555; text-align: right;">2022 - 2023</div>
+  </div>
+  <div style="color: #888;">Venue: UIUC</div>
+  <div style="color: #888;">Supervisor: Prof. R. Srikant, UIUC</div>
+  <div style="color: #888;">Collaboration: Seo Taek Kong, Dimitris Katselis UIUC</div>
+  <p style="margin-top: 10px;">
+    <strong>Description:</strong> Extended the Dawid-Skene (DS) model to multi-type cases and analyzed the error bounds of existing algorithms. Focusing on the case where there are two types of tasks, we propose a spectral method to partition tasks into two groups that cluster tasks by type. Our analysis reveals that task types can be perfectly recovered if the number of workers n scales logarithmically with the number of tasks d.
+  </p>
+  <p style="margin-top: 10px;">
+    <span style="color:#008000">It has been accepted for publication </span> at <span style="color: #1a73e8;">Transactions on Machine Learning Research (TMLR) 2025</span>. 
+  </p>
+  <p style="margin-top: 10px;">
+  <span style="color:#008000">Presented </span> at <a href="https://informs-aps.isye.gatech.edu/" target="_blank">INFORMS Applied Probability Society Conference 2025</a> to be held in July.
+  </p>
+  <p><a href="https://arxiv.org/abs/2302.07393" target="_blank">arxiv paper link</a>.</p>
+</div>
+
 
 <!-- Second Project -->
 <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
   <div style="display: flex; justify-content: space-between;">
     <div style="color: #1a73e8;"><strong>A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks</strong></div>
-    <div style="color: #555; text-align: right;">2023 - 2024</div>
+    <div style="color: #555; text-align: right;">2023-2024</div>
   </div>
   <div style="color: #888;">Venue: UIUC</div>
   <div style="color: #888;">Supervisor: Prof. R. Srikant, UIUC</div>
@@ -51,26 +94,7 @@ author_profile: true
 </div>
 
 
-<!-- Third Project -->
-<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="color: #1a73e8;"><strong>Inferring Labels from Multi-type Crowdsourced Data</strong></div>
-    <div style="color: #555; text-align: right;">2021 - 2022</div>
-  </div>
-  <div style="color: #888;">Venue: UIUC</div>
-  <div style="color: #888;">Supervisor: Prof. R. Srikant, UIUC</div>
-  <div style="color: #888;">Collaboration: Seo Taek Kong, Dimitris Katselis UIUC</div>
-  <p style="margin-top: 10px;">
-    <strong>Description:</strong> Extended the Dawid-Skene (DS) model to multi-type cases and analyzed the error bounds of existing algorithms. Focusing on the case where there are two types of tasks, we propose a spectral method to partition tasks into two groups that cluster tasks by type. Our analysis reveals that task types can be perfectly recovered if the number of workers n scales logarithmically with the number of tasks d.
-  </p>
-  <p><a href="https://arxiv.org/abs/2302.07393" target="_blank">arxiv paper link</a>.</p>
-  <p style="margin-top: 10px;">
-  <span style="color:#008000">Accepted for a talk </span> at <a href="https://informs-aps.isye.gatech.edu/" target="_blank">INFORMS Applied Probability Society Conference 2025</a> to be held in July.
-  </p>
-  <p style="margin-top: 10px;">
-    Under review at TMLR.
-  </p>
-</div>
+
 
 
 <!-- Fourth Project -->
@@ -85,7 +109,7 @@ author_profile: true
     <strong>Description:</strong> Proposed a polynomial-time, delay-reliable scheduling strategy for multi-resource allocation in wired media, optimal in the presence of adversarial packet arrival. Developed an approximate solution for handling multiple packet types under the same framework.
   </p>
   <p style="margin-top: 10px;">
-    Under preparation for GLOBECOM 2025.
+    Manuscript under preparation.
   </p>
 </div>
 
@@ -102,7 +126,19 @@ author_profile: true
   </p>
 </div>
 
-<h2>Work Experience</h2>
+<h2>Internships</h2>
+
+<!-- Second Work Experience -->
+<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: space-between;">
+    <div style="color: #1a73e8;"><strong>Google Research, Bangalore</strong></div>
+    <div style="color: #555; text-align: right;">2023</div>
+  </div>
+  <div style="color: #888;">Student Researcher</div>
+  <p style="margin-top: 10px;">
+    <strong>Description:</strong> Worked on an “AI for Social Good” project, where I studied the use of data-driven approaches to efficiently allocate scarce resources and encourage patients to seek healthcare in rural India. I worked under the supervision of Prof. Milind Tambe and collaborated closely with his team at Harvard University. The project involved designing sequential decision-making policies using the Restless Multi-armed Bandit framework.
+  </p>
+</div>
 
 <!-- First Work Experience -->
 <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
