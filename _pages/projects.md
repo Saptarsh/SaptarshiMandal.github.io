@@ -86,7 +86,7 @@ author_profile: true
   </p>
   <p><a href="https://arxiv.org/abs/2412.09579" target="_blank">arxiv paper link</a>.</p>
   <p style="margin-top: 10px;">
-    <span style="color:#008000">It has been accepted for publication</span> at <span style="color: #1a73e8;">Learning for Dynamics and Control (L4DC) 2025</span>.
+    <span style="color:#008000">It has been accepted for publication</span> at <span style="color: #1a73e8;">Learning for Dynamics and Control Conference (L4DC) 2025</span>.
   </p>
   <p style="margin-top: 10px;">
    Presented the work at <a href="https://studentconference.csl.illinois.edu/" target="_blank">CSL Student Conference 2025</a>.

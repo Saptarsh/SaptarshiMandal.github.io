@@ -21,14 +21,21 @@ Here is my [curriculum vitae](files/CV_SAPTARSHI.pdf).
 ------
 
 ### Research Interests
-I have broad interests in the **theoretical understanding of machine learning**. Currently, I am exploring **distributionally robust reinforcement learning in the average cost framework**. Previously I worked on **knowledge distillation** from a theoretical perspective, particularly using the techniques of the **neural tangent kernel**. I also investigated **Type dependent estimate for Crowdsourcing**. Additionally, I am interested in sequential decision-making problems, including **restless bandits**, **slicing in modern communication networks**, **scheduling in sensor networks**, etc.
+Currently, I am exploring **distributionally robust reinforcement learning**. Previously I worked on **knowledge distillation**, particularly using the techniques of the **neural tangent kernel**. I also investigated **Type dependent estimate for Crowdsourcing**. Additionally, I am interested in sequential decision-making problems, including **restless bandits**, **slicing in modern communication networks**, **scheduling in sensor networks**, etc.
 
 Updates
 ------
 
 ### 2025
+
+- <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2510.01721): <span style="color:#008000">*Saptarshi Mandal*</span>, Yashaswini Murthy, R. Srikant.  **Finite-Time Bounds for Distributionally Robust TD Learning with Linear Function Approximation** on <span style="color:#1434a4">arXiv</span>. Its currently under review at <span style="color: #1a73e8;">International Conference on Learning Representations (ICLR)</span>...
+
+- The [Crowdsourcing](https://arxiv.org/abs/2302.07393) work <span style="color:#008000">has been accepted for publication</span> at <span style="color: #1a73e8;">[Transactions on Machine Learning Research](https://jmlr.org/tmlr/index.html)</span>.
+
 - The [Crowdsourcing](https://arxiv.org/abs/2302.07393) work is accepted for a talk at <span style="color: #1a73e8;">[INFORMS Applied Probability Society Conference](https://informs-aps.isye.gatech.edu/)</span> to be held in July.
+
 - Presented the [Knowledge Distillation](https://arxiv.org/abs/2412.09579) work at <span style="color: #1a73e8;">[Learning for Dynamics and Control (L4DC) 2025](https://sites.google.com/umich.edu/l4dc2025/).</span>
+
 - <span style="color:#fa4d4d"></span> [Paper](https://arxiv.org/abs/2501.06103): GUOJUN XIONG, Haichuan Wang, Yuqi Pan, <span style="color:#008000">*Saptarshi Mandal*</span>, Sanket Shah, Niclas Boehmer, Milind Tambe. **Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**, <span style="color:#008000">has been accepted for publication as a full paper</span> at <span style="color: #1a73e8;">International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2025</span>. 
 
 ### 2024
