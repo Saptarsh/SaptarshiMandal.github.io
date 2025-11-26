@@ -86,7 +86,7 @@ author:
   location         : "Urbana,Illinois"
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : #"https://scholar.google.com/citations?user=DOJOW4EAAAAJ&hl=en"
+  googlescholar    :  "https://scholar.google.com/citations?user=7VORgIoAAAAJ&hl=en"
   email            :  "smandal4@illinois.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
